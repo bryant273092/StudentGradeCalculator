@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o CMakeFiles/a.out.gtest.dir/app/calculate_total_scores.cpp.o CMakeFiles/a.out.gtest.dir/app/input.cpp.o CMakeFiles/a.out.gtest.dir/app/output.cpp.o CMakeFiles/a.out.gtest.dir/app/remove_pointers.cpp.o  -o bin/a.out.gtest -lpthread -lc++ -lgtest -lgtest_main 

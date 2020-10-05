@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.app.dir/app/calculate_total_scores.cpp.o CMakeFiles/a.out.app.dir/app/input.cpp.o CMakeFiles/a.out.app.dir/app/main.cpp.o CMakeFiles/a.out.app.dir/app/output.cpp.o CMakeFiles/a.out.app.dir/app/remove_pointers.cpp.o  -o bin/a.out.app -lpthread -lc++ 

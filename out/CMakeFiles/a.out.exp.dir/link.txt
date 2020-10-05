@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.exp.dir/exp/expmain.cpp.o CMakeFiles/a.out.exp.dir/app/calculate_total_scores.cpp.o CMakeFiles/a.out.exp.dir/app/input.cpp.o CMakeFiles/a.out.exp.dir/app/output.cpp.o CMakeFiles/a.out.exp.dir/app/remove_pointers.cpp.o  -o bin/a.out.exp -lpthread -lc++ 
